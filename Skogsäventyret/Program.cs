@@ -1,6 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Skogs äventyret");
 
-Console.WriteLine("hej");
-Console.WriteLine();
 
-Console.WriteLine("hej");
+
